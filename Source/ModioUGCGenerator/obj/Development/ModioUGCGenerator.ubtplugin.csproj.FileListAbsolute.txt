@@ -22,3 +22,15 @@ C:\BuildAgent\work\modio-ue4-internal\Intermediate\PluginBuild\HostProject\Plugi
 C:\BuildAgent\work\modio-ue4-internal\Intermediate\PluginBuild\HostProject\Plugins\ModioUGC\Source\ModioUGCGenerator\obj\Development\MutatorGenerator.dll
 C:\BuildAgent\work\modio-ue4-internal\Intermediate\PluginBuild\HostProject\Plugins\ModioUGC\Source\ModioUGCGenerator\obj\Development\refint\MutatorGenerator.dll
 C:\BuildAgent\work\modio-ue4-internal\Intermediate\PluginBuild\HostProject\Plugins\ModioUGC\Source\ModioUGCGenerator\obj\Development\MutatorGenerator.pdb
+D:\UEProjects\EuphoricaSDK\Binaries\DotNET\UnrealBuildTool\Plugins\MutatorGenerator\MutatorGenerator.deps.json
+D:\UEProjects\EuphoricaSDK\Binaries\DotNET\UnrealBuildTool\Plugins\MutatorGenerator\MutatorGenerator.dll
+D:\UEProjects\EuphoricaSDK\Binaries\DotNET\UnrealBuildTool\Plugins\MutatorGenerator\ref\MutatorGenerator.dll
+D:\UEProjects\EuphoricaSDK\Binaries\DotNET\UnrealBuildTool\Plugins\MutatorGenerator\MutatorGenerator.pdb
+D:\UEProjects\EuphoricaSDK\Plugins\ModioUGC\Source\ModioUGCGenerator\obj\Development\ModioUGCGenerator.ubtplugin.csproj.AssemblyReference.cache
+D:\UEProjects\EuphoricaSDK\Plugins\ModioUGC\Source\ModioUGCGenerator\obj\Development\ModioUGCGenerator.ubtplugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEProjects\EuphoricaSDK\Plugins\ModioUGC\Source\ModioUGCGenerator\obj\Development\ModioUGCGenerator.ubtplugin.csproj.CoreCompileInputs.cache
+D:\UEProjects\EuphoricaSDK\Plugins\ModioUGC\Source\ModioUGCGenerator\obj\Development\ModioUGCGenerator.ubtplugin.sourcelink.json
+D:\UEProjects\EuphoricaSDK\Plugins\ModioUGC\Source\ModioUGCGenerator\obj\Development\ModioUGC.53A6EFB7.Up2Date
+D:\UEProjects\EuphoricaSDK\Plugins\ModioUGC\Source\ModioUGCGenerator\obj\Development\MutatorGenerator.dll
+D:\UEProjects\EuphoricaSDK\Plugins\ModioUGC\Source\ModioUGCGenerator\obj\Development\refint\MutatorGenerator.dll
+D:\UEProjects\EuphoricaSDK\Plugins\ModioUGC\Source\ModioUGCGenerator\obj\Development\MutatorGenerator.pdb
